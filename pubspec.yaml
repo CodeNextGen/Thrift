@@ -1,0 +1,30 @@
+name: thrift
+description: Thrift - Budget Manager, Expense Tracker
+
+version: 7.0.0+34
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^0.12.0+2
+  in_app_purchase: ^0.2.1
+  launch_review: ^2.0.0
+  intl: ^0.15.7
+  sqflite: ^1.1.6+2
+  shared_preferences: ^0.5.1+1
+  flutter_local_notifications: ^0.7.1+1
+  url_launcher: ^5.0.2
+  flutter_secure_storage: ^3.2.1+1
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: trc-icons
+      fonts:
+        - asset: assets/svg/fonts/trc-icons.ttf
+  #assets:
+  #  - assets/

@@ -1,0 +1,12 @@
+const String route_Disclosure = "dis";
+const String route_TransactionManager = "trn";
+const String route_CategoryManager = "trc";
+const String route_EntryManager = "ent";
+const String route_AccountManager = "acc";
+const String route_PrivacyPolicy = "pri";
+const String route_TermsAndConditions = "ter";
+const String route_Licences = "lic";
+const String route_HelpCenter = "hel";
+const String route_Cloud = "clo";
+const String route_Subscribe = "sub";
+const String route_Login = "log";
